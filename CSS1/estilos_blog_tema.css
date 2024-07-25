@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main>.container {
+    padding: 30px 0;
+}
+
+body {
+    background-color: #e6ddde;
+}
+
+header {
+    display: flex;
+    height: 110px;
+    background-color: #f7f3f7;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0px;
+}
+
+#navbarHeader {
+    margin-left: center;
+    gap: 45px;
+}
+
+#logo img {
+    gap: 20px;
+    width: 90px;
+    height: 90px;
+    margin-left: 10px;
+}
+
+.card img {
+    width: 100px;
+    height: 340px;
+}
+
+
+
+table {
+    width: 60%;
+    margin: 3% 20%;
+    background: rgb(214, 188, 210);
+    box-shadow: 40px 40px 20px rgba(9, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+td {
+    padding: 10px 15px;
+}
+
+
+
+textarea,
+#campo_titulo,
+#btn_enviar {
+    padding: 10px 10px;
+
+    border: 0px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    background-color: #fafafc;
+    width: 400px;
+    font-size: 17px;
+    outline: none;
+    cursor: pointer;
+}
+
+#campo_Descuento,
+#campo_Precio {
+    padding: 10px 10px;
+
+    border: 0px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    background-color: #fafafc;
+    width: 100px;
+    font-size: 17px;
+    outline: none;
+    cursor: pointer;
+}

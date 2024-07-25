@@ -1,0 +1,45 @@
+footer {
+  background-color: #c49a87;
+  color: #513d33;
+
+}
+
+.margen {
+  padding: 20px;
+
+}
+
+/* Estilo para la imagen */
+.social-icon {
+  max-width: 40px;
+  margin-right: 40px;
+}
+
+.red-social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#imageDOÑA {
+  max-width: 180px;
+  margin-right: 180px;
+}
+
+.logod {
+  float: right;
+}
+
+
+div[class="col-lg-4 mb-4 mb-lg-0"] {
+  padding: 40px 7px;
+  padding-left: 40px;
+
+}

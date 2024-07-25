@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #e6ddde;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-position: center center;
+}
+
+form {
+    padding: 20px;
+    background: rgb(214, 188, 210);
+    box-shadow: 50px 50px 20px rgba(9, 0, 0, 0.2);
+    border-radius: 20px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+
+.olvido,
+.registro {
+    font-size: 17px;
+    margin-bottom: 10px;
+
+}
+
+input {
+    padding: 17px 11px;
+    border: 0px;
+    border-radius: 25px;
+    margin-bottom: 25px;
+    background-color: #fafafc;
+    width: 400px;
+    font-size: 17px;
+
+}
+
+.alerta {
+    text-align: center;
+    color: rgb(132, 8, 8);
+}
+
+.admin {
+    padding: 11px;
+    background: rgb(214, 188, 210);
+    box-shadow: 0px 0px 00px rgba(9, 0, 0, 0.2);
+
+
+}
+
+.administrador {
+    width: 28%;
+    height: 18%;
+    background-color: #e6ddde;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.enviar,
+.codigo {
+    padding: 9px 9px;
+
+    border: 0px;
+    border-radius: 25px;
+    margin-bottom: 2px;
+    background-color: #fafafc;
+    width: 200px;
+
+    font-size: 17px;
+    cursor: pointer;
+    outline: none;
+
+}
+
+input[class="enviar"] {
+    height: 38px;
+}

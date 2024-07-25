@@ -1,0 +1,48 @@
+footer {
+  background-color: #c49a87;
+  color: #513d33;
+
+}
+
+.margen {
+  padding: 20px;
+}
+
+/* Estilo para la imagen */
+.social-icon {
+  max-width: 40px;
+  margin-right: 40px;
+}
+
+.red-social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#imageN {
+  max-width: 180px;
+  margin-right: 180px;
+}
+
+.logod {
+  float: right;
+}
+
+.frase {
+  font-family: 'Dancing Script', cursive;
+  padding-top: 150px;
+  padding-left: 80px;
+  padding-right: 80px;
+  font-size: 30px;
+  justify-content: center;
+  text-align: center;
+  color: rgba(108, 79, 93, 0.703);
+}

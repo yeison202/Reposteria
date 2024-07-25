@@ -1,0 +1,14 @@
+cuenta PayPal
+usuario: sb-7nooa27585471@personal.example.com
+
+contraseña: 4O$a.=uB
+
+tarjeta
+ 
+Name:John 
+apellido:Doe
+Credit card number: 4180213386287646
+Credit card type
+VISA
+Expiration date
+09/2028
